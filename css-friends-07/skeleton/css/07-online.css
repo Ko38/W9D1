@@ -1,0 +1,11 @@
+/* PHASE 7: Online */
+
+.online {
+  position: absolute;
+
+  transform: translateY(20px) rotate(-45deg);
+  /* transform-origin: left; */
+    /* transform: translate(50%, 50%) rotate(-45deg) ; */
+  background-color: green;
+
+}
